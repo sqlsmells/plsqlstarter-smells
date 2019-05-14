@@ -1,0 +1,7 @@
+organization=sqlsmells-github
+projectKey=sqlsmells_plsqlstarter-smells
+serverUrl=https://sonarcloud.io
+serverVersion=7.8.0.24676
+dashboardUrl=https://sonarcloud.io/dashboard?id=sqlsmells_plsqlstarter-smells
+ceTaskId=AWq3HyOtgvTe5u3ZTsgJ
+ceTaskUrl=https://sonarcloud.io/api/ce/task?id=AWq3HyOtgvTe5u3ZTsgJ
